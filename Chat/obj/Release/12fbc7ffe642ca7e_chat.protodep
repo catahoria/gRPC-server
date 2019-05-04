@@ -1,0 +1,2 @@
+obj\Release/Chat.cs \
+obj\Release/ChatGrpc.cs: protos/chat.proto
